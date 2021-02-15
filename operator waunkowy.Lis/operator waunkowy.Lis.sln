@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operator waunkowy.Lis", "operator waunkowy.Lis\operator waunkowy.Lis.csproj", "{7DD43451-CA3A-4A68-8BE8-771D75D95808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD43451-CA3A-4A68-8BE8-771D75D95808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD43451-CA3A-4A68-8BE8-771D75D95808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD43451-CA3A-4A68-8BE8-771D75D95808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD43451-CA3A-4A68-8BE8-771D75D95808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBEEEF94-4136-4FB1-AFF1-AAC2AE84F412}
+	EndGlobalSection
+EndGlobal
